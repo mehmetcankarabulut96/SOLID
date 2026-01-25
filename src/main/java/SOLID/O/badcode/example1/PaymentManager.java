@@ -1,4 +1,4 @@
-package SOLID.O.badcode;
+package SOLID.O.badcode.example1;
 
 // OCP tells us that a class or method or module should be open for extensions but closed for modifications
 public class PaymentManager {

@@ -1,4 +1,4 @@
-package SOLID.O.cleancode;
+package SOLID.O.cleancode.example1;
 
 public class Main {
     static void main() {
